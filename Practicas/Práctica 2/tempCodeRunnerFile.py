@@ -1,1 +1,0 @@
-print(str(linea1.replace("*",0)))
